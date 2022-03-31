@@ -1,0 +1,5 @@
+
+{
+    "mongoURI":
+      "mongodb+srv://mern_worksheet3:mern_worksheet3@mern.fwu6k.mongodb.net/mern_worksheet3?retryWrites=true&w=majority"
+}
